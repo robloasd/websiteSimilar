@@ -255,7 +255,7 @@ CSV 文件包含以下列：
 
 ## 去重方法
 
-要获取去重后的 URL 列表，只需筛选 `is_canonical = true` 的行：
+要获取去重后的 URL 列表，只需筛选 `is_canonical = true` 的行，当然你可以自己表格筛选状态码是200并且`is_canonical = true`：
 
 ```bash
 # 使用 jq（JSON）
